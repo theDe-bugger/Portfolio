@@ -1,6 +1,7 @@
 .topnav{
     background-color:black;
     overflow:hidden;
+    width:100%;
 }
 .topnav a{
     float:left;
