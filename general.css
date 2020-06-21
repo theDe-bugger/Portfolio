@@ -2,6 +2,8 @@
     background-color:black;
     overflow:hidden;
     width:100%;
+    text-align:center;
+    border:0px;
 }
 .topnav a{
     float:left;
