@@ -1,0 +1,10 @@
+#footerpad {
+  padding-top: 70px;
+  padding-bottom: 0px;
+  background-color: #1f2021;
+}
+
+a:focus, a:hover {
+  color: #0085A1;
+}
+
