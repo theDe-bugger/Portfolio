@@ -1,5 +1,5 @@
 # Portfolio
-Learn more about about me on this portfolio website I have created.
+Learn all about about me on this portfolio website I have created.
 ## About Me Page
 Brief description about me. Consider it a simple bio.
 ## Vision Page
