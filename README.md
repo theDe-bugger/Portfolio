@@ -1,7 +1,7 @@
 # Portfolio
 Learn all about about me on this portfolio website I have created.
-## About Me Page
-Brief description about me. Consider it a simple bio.
+## Home Page
+See my picture and read a brief description about me.
 ## Vision Page
 On this page, I explain what I envision for the future of mankind, this planet, technology, and my life.
 ## Projects Page
