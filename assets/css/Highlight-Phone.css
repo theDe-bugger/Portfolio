@@ -1,10 +1,11 @@
 .highlight-phone {
-  /*background-size: max;*/
-  /*min-height: x\\;*/
+  background-size: max;
+  min-height: max;
   color: #313437;
   background-color: #eef4f7;
   padding: 50px 0 55px;
   overflow: hidden;
+  height: 550px;
 }
 
 @media (max-width:767px) {
