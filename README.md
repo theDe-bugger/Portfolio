@@ -1,4 +1,4 @@
 # Portfolio
 View at this link:  
-https://thede-bugger.github.io/Portfolio/  
+https://jaimildalwadi.netlify.app/
 Learn all about about me on this portfolio!
