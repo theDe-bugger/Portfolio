@@ -224,6 +224,9 @@ a:hover {
   margin: 0 15px 0 0;
   box-shadow: 0 0 0 3px #0078ff;
   transition: all 500ms ease;
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
 }
 
 .socials .ico-circle:hover {
@@ -882,6 +885,7 @@ a:hover {
 
 .service-box .s-description {
   color: #4e4e4e;
+  height:auto;
 }
 
 /*--------------------------------------------------------------
@@ -900,6 +904,7 @@ a:hover {
 
 .counter-ico {
   margin-bottom: 1rem;
+  align-items: center;
 }
 
 .counter-ico .ico-circle {
@@ -907,6 +912,9 @@ a:hover {
   width: 60px;
   line-height: 1.5;
   box-shadow: 0 0 0 10px #cde1f8;
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
 }
 
 .counter-num .counter {
